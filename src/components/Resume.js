@@ -88,7 +88,7 @@ class Resume extends Component {
 
             <Testimonial
               from="Usama"
-              description="If you're looking for a hardworking and helpful employee Imtiyaaz Temoore is your man.  He is always willing to help you when required, he is very talented when it comes to his work, he always puts in 100% effort."
+              description="I have never seen anyone more hardworking than Imtyaaz. I have witnessed with my own eyes how he turned the midnight oil to complete his tasks. His someone who doesn't give up and gives it his all"
             />
 
             <hr style={{ borderTop: "3px solid #e22947" }} />

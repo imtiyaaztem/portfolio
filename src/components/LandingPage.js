@@ -8,7 +8,7 @@ class LandingPage extends Component {
         <Grid className="landing-grid">
           <Cell col={12}>
             <img
-              src="https://previews.123rf.com/images/gmast3r/gmast3r1603/gmast3r160300762/54398260-business-man-profile-icon-male-avatar-hipster-style-fashion-cartoon-guy-beard-portrait-casual-busine.jpg"
+              src="IMG-20200629-WA0020.jpg"
               alt="avatar"
               className="avatar-img"
             />
